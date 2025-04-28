@@ -1,0 +1,3 @@
+Youssef Samy
+DEPI
+Technologies: TensorFlow, spaCy, Streamlit, pandas, matplotlib, seaborn.  
